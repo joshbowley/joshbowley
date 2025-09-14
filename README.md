@@ -50,7 +50,7 @@ I'm a **Physics student at the University of Exeter** passionate about **scienti
 ---
 
 ## 📫 Contact
-- [LinkedIn](https://www.linkedin.com/in/joshbowley)  
+- [LinkedIn](www.linkedin.com/in/joshua-bowley)  
 - [Email](mailto:jb1753@exeter.ac.uk)  
 
 *“Curiosity is the engine of achievement.”*
