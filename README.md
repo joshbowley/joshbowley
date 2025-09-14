@@ -17,7 +17,7 @@ I'm a **Physics student at the University of Exeter** passionate about **scienti
 ---
 
 ## 💻 Projects
-**Automated Sauce Pot Filler** – [GitHub](https://github.com/joshbowley)  
+**Automated Sauce Pot Filler** – [GitHub](https://github.com/joshbowley/sauce-pot-dispenser.git)  
 - Designed an Arduino Mega controller for 10 stepper motors managing cup dispensing, sauce filling, lid sealing, and pot release.  
 - Developed non-blocking state machine architecture for synchronized multi-motor control.  
 - Recipient of £750 University of Bath Arthur Clements Fund scholarship.  
