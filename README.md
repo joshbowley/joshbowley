@@ -1,6 +1,6 @@
 # Hi, I'm Josh 👋
 
-I'm a **Physics student at the University of Exeter** with a passion for **scientific programming, embedded systems, and mechatronic projects**. I enjoy combining physics, coding, and engineering to solve real-world problems.
+I'm a **Physics student at the University of Exeter** passionate about **scientific programming, embedded systems, and mechatronic projects**. I enjoy combining physics, coding, and engineering to solve real-world problems.
 
 ---
 
@@ -31,9 +31,16 @@ I'm a **Physics student at the University of Exeter** with a passion for **scien
 
 ---
 
-## 🛠 Skills
-**Programming & Tools:** Python (NumPy, Pandas, Matplotlib), C++ (Arduino), embedded systems, stepper/servo motors  
-**Soft Skills:** Leadership, teamwork, problem-solving, adaptability  
+## 🛠 Skills & Technologies
+
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
+![Stepper Motors](https://img.shields.io/badge/-Stepper%20Motors-FF6F61?style=flat-square)
+![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-6E44FF?style=flat-square)
+![Leadership](https://img.shields.io/badge/-Leadership-F4D03F?style=flat-square)
+![Teamwork](https://img.shields.io/badge/-Teamwork-2ECC71?style=flat-square)
+![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF5733?style=flat-square)
 
 ---
 
