@@ -44,11 +44,6 @@ I'm a **Physics student at the University of Exeter** passionate about **scienti
 
 ---
 
-## 📈 GitHub Stats
-![Josh's GitHub stats](https://github-readme-stats.vercel.app/api?username=joshbowley&show_icons=true&hide_border=true&count_private=true&theme=radical)
-
----
-
 ## 📫 Contact
 - [LinkedIn](www.linkedin.com/in/joshua-bowley)  
 - [Email](mailto:jb1753@exeter.ac.uk)  
