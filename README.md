@@ -6,7 +6,7 @@ This profile links to the projects and modules I actively maintain.
 
 ## Public Repositories
 
-### sauce-pot-dispenser
+### [sauce-pot-dispenser](https://github.com/joshbowley/sauce-pot-dispenser)
 A multi-axis electromechanical system developed with an engineering collaborator and built for a real business.
 #### Key features:
 - Arduino Mega control
@@ -15,7 +15,7 @@ A multi-axis electromechanical system developed with an engineering collaborator
 - Custom mechanical design and 3D-printed components
 Developed with support from a University of Bath engineering scholarship, this project combines embedded control, system architecture, and practical engineering.
 
-### scientific-programming-in-c
+### [scientific-programming-in-c](https://github.com/joshbowley/scientific-programming-in-c)
 Coursework and technical work for my Scientific Programming in C module (PHY2027).
 #### Includes:
 - RK4 numerical integrators
@@ -25,7 +25,7 @@ Coursework and technical work for my Scientific Programming in C module (PHY2027
 - Mathematical algorithms and numerical methods
 This repo demonstrates performance-minded C programming applied to real physical systems.
 
-### practical_physics_II
+### [practical_physics_II](https://github.com/joshbowley/practical_physics_II)
 Jupyter notebooks and analysis scripts from my second-year physics laboratory modules.
 #### Includes:
 - Uncertainty propagation
