@@ -1,51 +1,46 @@
-# Hi, I'm Josh 👋
+# Josh Bowley
 
-I'm a **Physics student at the University of Exeter** passionate about **scientific programming, embedded systems, and mechatronic projects**. I enjoy combining physics, coding, and engineering to solve real-world problems.
+Physics student at the University of Exeter on the Professional Placement pathway. My work focuses on numerical simulation, embedded systems, scientific programming, and practical laboratory analysis. I prefer building systems that are physically accurate, mechanically reliable and implemented cleanly.
 
----
+This profile links to the projects and modules I actively maintain.
 
-## 🎓 Education & Awards
-**University of Exeter | BSc Physics with Professional Placement (2024–2028)**  
-- Expected: 1st Class | 1st Year: 80%  
-- Key Modules: Mathematics for Physicists – 86%, Scientific Programming in Python – 83%, Practical Physics I – 85%, Vector Mechanics – 80%  
-- 🏆 Dean’s Commendation for Exceptional Performance (Top 5% of cohort)  
+## Public Repositories
 
-**Arden Academy | A-Levels (2022–2024)**  
-- Physics – A*, Mathematics – A, Product Design – B  
-- Physics Special Subject Prize for highest mark in cohort  
+### sauce-pot-dispenser
+A multi-axis electromechanical system developed with an engineering collaborator and built for a real business.
+#### Key features:
+- Arduino Mega control
+- Ten stepper motors using AccelStepper
+- State-machine architecture
+- Custom mechanical design and 3D-printed components
+Developed with support from a University of Bath engineering scholarship, this project combines embedded control, system architecture, and practical engineering.
 
----
+### scientific-programming-in-c
+Coursework and technical work for my Scientific Programming in C module (PHY2027).
+#### Includes:
+- RK4 numerical integrators
+- N-body gravitational simulation (Solar System modelling)
+- File-based plotting outputs
+- Modular, well-commented C code
+- Mathematical algorithms and numerical methods
+This repo demonstrates performance-minded C programming applied to real physical systems.
 
-## 💻 Projects
-**Automated Sauce Pot Filler** – [GitHub](https://github.com/joshbowley/sauce-pot-dispenser.git)  
-- Designed an Arduino Mega controller for 10 stepper motors managing cup dispensing, sauce filling, lid sealing, and pot release.  
-- Developed non-blocking state machine architecture for synchronized multi-motor control.  
-- Recipient of £750 University of Bath Arthur Clements Fund scholarship.  
+### practical_physics_II
+Jupyter notebooks and analysis scripts from my second-year physics laboratory modules.
+#### Includes:
+- Uncertainty propagation
+- Weighted linear regression and curve fitting
+- Spectroscopy, diffraction and X-ray analysis
+- Clean markdown explanations and reproducible workflows
+This repo reflects my approach to rigorous, well-documented scientific data analysis.
 
----
+### Interests and Skills
+- C, Python, Arduino (C++)
+- Numerical methods and simulation
+- Instrumentation and error analysis
+- Electromechanical systems and control
+- Data processing and scientific modelling
 
-## ⚡ Leadership & Roles
-- **Kit Secretary** – Exeter University Scuba Society (150+ items, maintenance & bookings)  
-- **Team Coach** – Men’s 5th XI Hockey Club (training & skill development)  
-- **Play Worker / Childcare Assistant** – Dorridge Primary School  
-
----
-
-## 🛠 Skills & Technologies
-
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white) 
-![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Stepper Motors](https://img.shields.io/badge/-Stepper%20Motors-FF6F61?style=flat-square)
-![Embedded Systems](https://img.shields.io/badge/-Embedded%20Systems-6E44FF?style=flat-square)
-![Leadership](https://img.shields.io/badge/-Leadership-F4D03F?style=flat-square)
-![Teamwork](https://img.shields.io/badge/-Teamwork-2ECC71?style=flat-square)
-![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FF5733?style=flat-square)
-
----
-
-## 📫 Contact
-- [LinkedIn](www.linkedin.com/in/joshua-bowley)  
-- [Email](mailto:jb1753@exeter.ac.uk)  
-
-*“Curiosity is the engine of achievement.”*
+### Contact
+Email: jb1753@exeter.ac.uk
+LinkedIn: linkedin.com/in/joshbowley
