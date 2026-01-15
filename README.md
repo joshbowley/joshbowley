@@ -10,16 +10,15 @@ This profile links to the projects and modules I actively maintain.
 ## Public Repositories
 
 ### [scientific-programming-in-c](https://github.com/joshbowley/scientific-programming-in-c)
-Coursework and technical work for my Scientific Programming in C module (PHY2027).
+A numerical simulation project modelling the Solar System using a fourth-order Runge–Kutta (RK4) integrator, written in C.
 
-#### Includes:
-- RK4 numerical integrators  
-- N-body gravitational simulation (Solar System modelling)  
-- File-based plotting outputs  
-- Modular, well-commented C code  
-- Mathematical algorithms and numerical methods  
+#### Focus:
+- N-body gravitational simulation of planetary motion  
+- RK4 time integration for coupled differential equations  
+- Physically motivated initial conditions and units  
+- Modular, well-structured C code with clear separation of concerns  
 
-This repository demonstrates performance-minded C programming applied to real physical systems.
+This repository demonstrates low-level numerical simulation and performance-conscious C programming applied to a real physical system.
 
 ---
 
