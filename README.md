@@ -1,58 +1,27 @@
 # Josh Bowley
 
-Physics student at the University of Exeter on the Professional Placement pathway.  
-My work focuses on numerical simulation, embedded systems, scientific programming, and practical laboratory analysis.
+Physics student at the University of Exeter (BSc with Professional Placement, graduating 2028), currently on a placement year at **Cambridge Consultants** in DSP and wireless communications, writing C++ in the MAC and physical layer of a 5G base station.
 
-I prefer building systems that are physically accurate, mechanically reliable, and implemented cleanly.
+I'm most interested in performance-critical software: code that has to be fast, correct and well tested under tight constraints.
 
-This profile links to the projects and modules I actively maintain.
+## Projects
 
-## Public Repositories
+### [N-Body Solar System Simulation (C)](https://github.com/joshbowley/scientific-programming-in-c)
+9-body Newtonian gravity simulation in C with a fourth-order Runge–Kutta integrator, initialised from NASA JPL Horizons data and run over 20–170-year horizons, with analysis in Python.
 
-### [scientific-programming-in-c](https://github.com/joshbowley/scientific-programming-in-c)
-A numerical simulation project modelling the Solar System using a fourth-order Runge–Kutta (RK4) integrator, written in C.
+### [Cluedo (Python)](https://github.com/joshbowley/com2026_cluedo)
+Fully playable command-line Cluedo for 2–6 players: breadth-first-search movement over a hand-encoded 24×25 board, eight modules, 156 pytest tests and Sphinx documentation.
 
-#### Focus:
-- N-body gravitational simulation of planetary motion  
-- RK4 time integration for coupled differential equations  
-- Physically motivated initial conditions and units  
-- Modular, well-structured C code with clear separation of concerns  
+### [Sauce Pot Dispenser (Arduino, C++)](https://github.com/joshbowley/sauce-pot-dispenser)
+Control software for a ten-stepper-motor dispensing and sealing machine built for a local business, funded by a University of Bath Arthur Clements Engineering Scholarship.
 
-This repository demonstrates low-level numerical simulation and performance-conscious C programming applied to a real physical system.
+## Skills
 
----
-
-### [sauce-pot-dispenser](https://github.com/joshbowley/sauce-pot-dispenser)
-A multi-axis electromechanical system developed with an engineering collaborator and built for a real business.
-
-#### Key features:
-- Arduino Mega control  
-- Ten stepper motors using AccelStepper  
-- State-machine architecture  
-- Custom mechanical design and 3D-printed components  
-
-Developed with support from a University of Bath engineering scholarship, this project combines embedded control, system architecture, and practical engineering.
-
----
-
-### [practical_physics_II](https://github.com/joshbowley/practical_physics_II)
-Jupyter notebooks and analysis scripts from my second-year physics laboratory modules.
-
-#### Includes:
-- Uncertainty propagation  
-- Weighted linear regression and curve fitting  
-- Spectroscopy, diffraction, and X-ray analysis  
-- Clean markdown explanations and reproducible workflows  
-
-This repository reflects my approach to rigorous, well-documented scientific data analysis.
-
-## Interests and Skills
-- C, Python, Arduino (C++)  
-- Numerical methods and simulation  
-- Instrumentation and error analysis  
-- Electromechanical systems and control  
-- Data processing and scientific modelling  
+- **Languages:** C++, C, Python, Rust (in training)
+- **Tools:** Linux (Ubuntu, Fedora), git, CMake/CTest, Neovim, pytest
+- **Domain:** numerical methods, 5G NR physical layer, signal processing, embedded control
 
 ## Contact
-Email: jb1753@exeter.ac.uk  
-LinkedIn: https://linkedin.com/in/joshbowley
+
+- Email: jb1753@exeter.ac.uk
+- LinkedIn: https://www.linkedin.com/in/joshua-bowley/
